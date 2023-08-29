@@ -13,6 +13,9 @@ separator (eg. tabs, comma, pipe, etc). After registering a dataset and declarin
 
 ---
 
-This fork is only meant to demonstrate the "Automated Highlight Identification in a Data Profiling System" diploma thesis. It is not meant for actual development.  The official Pythia development repo of the DAINTINESS-Group can be found [here](https://github.com/DAINTINESS-Group/Pythia).
+This fork is only meant to demonstrate the "Automated Highlight Identification in a Data Profiling System" diploma thesis. It is not meant for actual development. 
+
+The official Pythia development repo of the [DAINTINESS-Group](https://github.com/DAINTINESS-Group) can be found [here](https://github.com/DAINTINESS-Group/Pythia).
+
 - The thesis PDF (English) can be found at the root directory.
 - Thesis demonstrational [video](https://youtu.be/8-CETy9UU5o?si=NR2SFi8KVeOk01pb) (Greek).
