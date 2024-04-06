@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img height=170 src="https://cdn.discordapp.com/attachments/326432556037832704/936299117766926406/logo3.png"/> 
+    <img height=170 src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaEpVeTBUz4OuKyz3MgmdkeZMkIfXnZ0PD0xdu6a8o0NcfZNjg1-3mgjfscMpri7PLvAeWxBCDNmz0b83_4_nmKqfKmlgv9O2Q=w1557-h879-rw-v1"/> 
 </p>
 
 ## <div align="center">Pythia</div>
